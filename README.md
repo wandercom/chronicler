@@ -156,7 +156,7 @@ Chronicler is part of a larger governance stack:
 ## Testing
 
 ```bash
-git clone https://github.com/jmcentire/chronicler.git
+git clone https://github.com/wandercom/chronicler.git
 cd chronicler
 pip install -e ".[dev]"
 pytest tests/
